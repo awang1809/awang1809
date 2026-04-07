@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## hello👋
+math + cs @ UBC
 <!--
 **awang1809/awang1809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
